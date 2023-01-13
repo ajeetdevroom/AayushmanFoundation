@@ -1788,3 +1788,6 @@ section {
   color: #fff;
   text-decoration: none;
 }
+#hero h1 {
+  background: #f7f7f78a;
+}
